@@ -1,0 +1,4 @@
+c:\users\frte\documents\visual studio 2017\Projects\Revisions\Revisions\bin\Debug\Revisions.dll
+c:\users\frte\documents\visual studio 2017\Projects\Revisions\Revisions\bin\Debug\Revisions.pdb
+c:\users\frte\documents\visual studio 2017\Projects\Revisions\Revisions\obj\Debug\Revisions.dll
+c:\users\frte\documents\visual studio 2017\Projects\Revisions\Revisions\obj\Debug\Revisions.pdb
