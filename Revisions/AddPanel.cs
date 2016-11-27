@@ -19,7 +19,7 @@ namespace Revisions
             //the add-in application "HelloWorld" will be triggered when button is pushed
 
             PushButton pushButton = ribbonPanel.AddItem(new PushButtonData("Create snapshot",
-                "Create snapshot", @"D:\HelloWorld.dll", "HelloWorld.CsHelloWorld")) as PushButton;
+                "Create snapshot", @"C:\Users\frte\Source\Repos\Revisions\Revisions\bin\Debug\Revisions.dll", @"C:\Users\frte\Source\Repos\Revisions\Revisions\CreateSnapshot.cs")) as PushButton;
 
             return Result.Succeeded;
         }

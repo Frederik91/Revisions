@@ -2,3 +2,7 @@ c:\users\frte\documents\visual studio 2017\Projects\Revisions\Revisions\bin\Debu
 c:\users\frte\documents\visual studio 2017\Projects\Revisions\Revisions\bin\Debug\Revisions.pdb
 c:\users\frte\documents\visual studio 2017\Projects\Revisions\Revisions\obj\Debug\Revisions.dll
 c:\users\frte\documents\visual studio 2017\Projects\Revisions\Revisions\obj\Debug\Revisions.pdb
+C:\Users\frte\Source\Repos\Revisions\Revisions\bin\Debug\Revisions.dll
+C:\Users\frte\Source\Repos\Revisions\Revisions\bin\Debug\Revisions.pdb
+C:\Users\frte\Source\Repos\Revisions\Revisions\obj\Debug\Revisions.dll
+C:\Users\frte\Source\Repos\Revisions\Revisions\obj\Debug\Revisions.pdb
