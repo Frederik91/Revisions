@@ -8,10 +8,16 @@ using Autodesk.Revit.DB;
 
 namespace Revisions
 {
-    public class AddPanel : Autodesk.Revit.UI.IExternalApplication
+    public class AddPanel : IExternalApplication
     {
         public Result OnShutdown(UIControlledApplication application)
         {
+            return Result.Succeeded;
+        }
+
+        public Result OnStartup(UIControlledApplication application)
+        {
+
             // add new ribbon panel
             RibbonPanel ribbonPanel = application.CreateRibbonPanel("Revisions");
 
@@ -22,11 +28,7 @@ namespace Revisions
                 "Create snapshot", @"C:\Users\frte\Source\Repos\Revisions\Revisions\bin\Debug\Revisions.dll", @"C:\Users\frte\Source\Repos\Revisions\Revisions\CreateSnapshot.cs")) as PushButton;
 
             return Result.Succeeded;
-        }
 
-        public Result OnStartup(UIControlledApplication application)
-        {
-            return Result.Succeeded;
         }
     }
 }
